@@ -1,0 +1,50 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+spreetail/
+venv/
+env/
+.venv/
+
+# Data and exports (optional — ignore if you don't want raw data tracked)
+data/
+exports/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables & config
+*.env
+config.py
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Docker-related
+*.pid
+docker-compose.override.yml
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Cache files
+*.cache
+*.pytest_cache/
+.coverage
+.tox/
+.mypy_cache/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Others
+*.bak
+*.swp
