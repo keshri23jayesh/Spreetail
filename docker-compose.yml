@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  web-scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: enhanced-web-scraper
+    environment:
+      - HEADLESS_BROWSER=true
+      - MAX_WORKERS=3
+      - LOG_LEVEL=INFO
+    volumes:
+      - ./data:/app/data
+      - ./exports:/app/exports
+      - ./logs:/app/logs
+    working_dir: /app
+    command: python3 production_main.py
+    restart: unless-stopped
+    
+  # Optional: DuckDB Analytics Service
+  analytics:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: analytics-service
+    environment:
+      - SAMPLE_SIZE=50000
+      - MAX_MEMORY_GB=2.0
+    volumes:
+      - ./data:/app/data
+      - ./exports:/app/exports
+    working_dir: /app
+    command: python3 -c "from production_analyzer import ProductionAnalyzer; analyzer = ProductionAnalyzer(); analyzer.run_comprehensive_analysis()"
+    depends_on:
+      - web-scraper
+    restart: "no"
+
+volumes:
+  scraper_data:
+  analytics_data:

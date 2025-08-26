@@ -1,0 +1,1255 @@
+2025-08-20 00:09:07,378 - INFO - Database initialized successfully
+2025-08-20 00:09:07,378 - INFO - Starting to scrape: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:09:11,031 - INFO - Extracted product: ...
+2025-08-20 00:09:11,032 - WARNING - No review elements found
+2025-08-20 00:09:11,034 - INFO - Product saved with ID: 1
+2025-08-20 00:09:11,039 - INFO - Starting complete product analysis...
+2025-08-20 00:09:11,039 - INFO - Creating sample dataset for demonstration...
+2025-08-20 00:09:11,142 - INFO - Sample dataset created with 10000 records
+2025-08-20 00:09:11,179 - INFO - Loaded 10000 products into DuckDB
+2025-08-20 00:09:11,183 - INFO - Category statistics calculated
+2025-08-20 00:09:11,191 - INFO - Statistical significance analysis completed
+2025-08-20 00:09:11,191 - INFO - Insights generated successfully
+2025-08-20 00:09:11,192 - INFO - Results exported to data/analysis_results.json
+2025-08-20 00:09:11,192 - INFO - Analysis completed successfully
+2025-08-20 00:10:06,124 - INFO - Database initialized successfully
+2025-08-20 00:10:06,124 - INFO - Starting to scrape: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:10:08,902 - INFO - Extracted product: ...
+2025-08-20 00:10:08,904 - WARNING - No review elements found
+2025-08-20 00:10:08,906 - INFO - Product saved with ID: 2
+2025-08-20 00:10:08,915 - INFO - Starting complete product analysis...
+2025-08-20 00:10:08,960 - INFO - Loaded 10000 products into DuckDB
+2025-08-20 00:10:08,968 - INFO - Category statistics calculated
+2025-08-20 00:10:08,977 - INFO - Statistical significance analysis completed
+2025-08-20 00:10:08,977 - INFO - Insights generated successfully
+2025-08-20 00:10:08,978 - INFO - Results exported to data/analysis_results.json
+2025-08-20 00:10:08,978 - INFO - Analysis completed successfully
+2025-08-20 00:11:00,416 - INFO - Database initialized successfully
+2025-08-20 00:11:00,417 - INFO - Starting to scrape: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:11:02,895 - INFO - Extracted product: ...
+2025-08-20 00:11:02,896 - WARNING - No review elements found
+2025-08-20 00:11:02,898 - INFO - Product saved with ID: 3
+2025-08-20 00:11:02,907 - INFO - Starting complete product analysis...
+2025-08-20 00:11:02,950 - INFO - Loaded 10000 products into DuckDB
+2025-08-20 00:11:02,957 - INFO - Category statistics calculated
+2025-08-20 00:11:02,966 - INFO - Statistical significance analysis completed
+2025-08-20 00:11:02,967 - INFO - Insights generated successfully
+2025-08-20 00:11:02,968 - INFO - Results exported to data/analysis_results.json
+2025-08-20 00:11:02,968 - INFO - Analysis completed successfully
+2025-08-20 00:24:48,976 - INFO - Database initialized successfully
+2025-08-20 00:24:48,976 - INFO - Starting to scrape: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:24:52,051 - INFO - Extracted product: ...
+2025-08-20 00:24:52,053 - WARNING - No review elements found
+2025-08-20 00:24:52,055 - INFO - Product saved with ID: 4
+2025-08-20 00:24:52,064 - INFO - Starting complete product analysis...
+2025-08-20 00:24:52,110 - INFO - Loaded 10000 products into DuckDB
+2025-08-20 00:24:52,118 - INFO - Category statistics calculated
+2025-08-20 00:24:52,125 - INFO - Statistical significance analysis completed
+2025-08-20 00:24:52,126 - INFO - Insights generated successfully
+2025-08-20 00:24:52,126 - INFO - Results exported to data/analysis_results.json
+2025-08-20 00:24:52,126 - INFO - Analysis completed successfully
+2025-08-20 00:25:10,310 - __main__ - INFO - Production application initialized
+2025-08-20 00:25:10,310 - __main__ - INFO - 🚀 ENHANCED WEB SCRAPER & PRODUCT DATA ANALYSIS
+2025-08-20 00:25:10,310 - __main__ - INFO - 🏭 Production Pipeline Starting...
+2025-08-20 00:25:10,310 - __main__ - INFO - ================================================================================
+2025-08-20 00:25:10,310 - __main__ - INFO - ================================================================================
+2025-08-20 00:25:10,310 - __main__ - INFO - 🕷️  STARTING ADVANCED WEB SCRAPER
+2025-08-20 00:25:10,310 - __main__ - INFO - ================================================================================
+2025-08-20 00:25:10,328 - __main__ - INFO - 🎯 Target URL: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:25:10,328 - __main__ - INFO - 📊 Starting comprehensive product and review extraction...
+2025-08-20 00:25:10,328 - __main__ - INFO - Initial memory usage: 118.4 MB
+2025-08-20 00:25:10,328 - advanced_scraper - INFO - Starting comprehensive scraping of: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:25:10,330 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 00:25:10,580 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:25:10,890 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:25:10,954 - WDM - INFO - There is no [mac64] chromedriver "139.0.7258.68" for browser google-chrome "139.0.7258" in cache
+2025-08-20 00:25:10,966 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:25:11,139 - WDM - INFO - WebDriver version 139.0.7258.68 selected
+2025-08-20 00:25:11,141 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.68/mac-arm64/chromedriver-mac-arm64.zip
+2025-08-20 00:25:11,142 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.68/mac-arm64/chromedriver-mac-arm64.zip
+2025-08-20 00:25:11,274 - WDM - INFO - Driver downloading response is 200
+2025-08-20 00:25:12,480 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:25:12,595 - WDM - INFO - Driver has been saved in cache [/Users/ujjwalkumar/.wdm/drivers/chromedriver/mac64/139.0.7258.68]
+2025-08-20 00:25:14,532 - advanced_scraper - INFO - Selenium WebDriver initialized successfully
+2025-08-20 00:25:29,389 - advanced_scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:25:29,404 - advanced_scraper - INFO - Successfully extracted product: ...
+2025-08-20 00:25:29,405 - advanced_scraper - INFO - Extracting reviews from page 1
+2025-08-20 00:25:39,621 - advanced_scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:25:39,629 - advanced_scraper - WARNING - No reviews found on page 1
+2025-08-20 00:25:39,629 - advanced_scraper - INFO - Extracted 0 total reviews across 0 pages
+2025-08-20 00:25:39,709 - advanced_scraper - INFO - Exported extraction data to 3 files
+2025-08-20 00:25:39,709 - advanced_scraper - INFO - Scraping completed successfully in 29.38s
+2025-08-20 00:25:39,787 - __main__ - INFO - ✅ Product extracted: ...
+2025-08-20 00:25:39,787 - __main__ - INFO - ✅ Reviews extracted: 0
+2025-08-20 00:25:39,787 - __main__ - INFO - ✅ Scraping duration: 29.38s
+2025-08-20 00:25:39,788 - root - INFO - Database initialized successfully
+2025-08-20 00:25:39,789 - root - INFO - Product saved with ID: 5
+2025-08-20 00:25:39,789 - __main__ - INFO - 
+📈 SCRAPING SUMMARY:
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Product Title: 
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Brand: 
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Price: 
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Rating: 0.0/5.0
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Total Reviews Extracted: 0
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Database Products: 5
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Database Reviews: 0
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Export Files: 3
+2025-08-20 00:25:39,789 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Scraping Duration: 29.38s
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Success Rate: 100.0%
+2025-08-20 00:25:39,789 - __main__ - INFO -    • Memory Usage: 137.8 MB
+2025-08-20 00:25:39,789 - __main__ - INFO -    • CPU Usage: 0.0%
+2025-08-20 00:25:39,789 - __main__ - INFO - 
+📁 EXPORTED FILES:
+2025-08-20 00:25:39,790 - __main__ - INFO -    • JSON: exports/extraction_20250820_002539.json
+2025-08-20 00:25:39,790 - __main__ - INFO -    • PRODUCT_CSV: exports/extraction_product_20250820_002539.csv
+2025-08-20 00:25:39,790 - __main__ - INFO -    • EXCEL: exports/extraction_20250820_002539.xlsx
+2025-08-20 00:25:39,792 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:25:39,792 - __main__ - INFO - 📊 STARTING PRODUCTION DATA ANALYSIS
+2025-08-20 00:25:39,792 - __main__ - INFO - ================================================================================
+2025-08-20 00:25:39,792 - __main__ - INFO - 🔄 Loading and analyzing large-scale product dataset...
+2025-08-20 00:25:39,792 - __main__ - INFO - Initial memory usage: 128.0 MB
+2025-08-20 00:25:39,793 - production_analyzer - INFO - Starting comprehensive product data analysis...
+2025-08-20 00:25:39,796 - production_analyzer - INFO - DuckDB connection established with optimizations
+2025-08-20 00:25:39,796 - production_analyzer - INFO - Loading dataset into DuckDB...
+2025-08-20 00:25:39,838 - production_analyzer - ERROR - Error loading dataset: Catalog Error: Table with name "products" already exists!
+2025-08-20 00:25:39,838 - production_analyzer - ERROR - Error in comprehensive analysis: Failed to load dataset
+2025-08-20 00:25:39,838 - __main__ - ERROR - ❌ Analysis failed - no results generated
+2025-08-20 00:25:39,839 - __main__ - INFO - 📄 Execution report saved: logs/execution_report_20250820_002539.json
+2025-08-20 00:25:39,839 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:25:39,839 - __main__ - INFO - 🏁 PRODUCTION PIPELINE COMPLETE
+2025-08-20 00:25:39,839 - __main__ - INFO - ================================================================================
+2025-08-20 00:25:39,839 - __main__ - INFO - ✅ Components completed successfully: 1/2
+2025-08-20 00:25:39,839 - __main__ - INFO - ⏱️  Total execution time: 29.53s
+2025-08-20 00:25:39,839 - __main__ - INFO - 💾 Peak memory usage: 137.8 MB
+2025-08-20 00:25:39,839 - __main__ - INFO - 📁 Files generated: 3
+2025-08-20 00:25:39,839 - __main__ - WARNING - ⚠️  Some components encountered issues.
+2025-08-20 00:25:39,839 - __main__ - INFO - 📋 Check logs for detailed error information
+2025-08-20 00:29:05,954 - __main__ - INFO - Production application initialized
+2025-08-20 00:29:05,955 - __main__ - INFO - 🚀 ENHANCED WEB SCRAPER & PRODUCT DATA ANALYSIS
+2025-08-20 00:29:05,955 - __main__ - INFO - 🏭 Production Pipeline Starting...
+2025-08-20 00:29:05,955 - __main__ - INFO - ================================================================================
+2025-08-20 00:29:05,955 - __main__ - INFO - ================================================================================
+2025-08-20 00:29:05,955 - __main__ - INFO - 🕷️  STARTING ADVANCED WEB SCRAPER
+2025-08-20 00:29:05,955 - __main__ - INFO - ================================================================================
+2025-08-20 00:29:05,973 - __main__ - INFO - 🎯 Target URL: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:29:05,973 - __main__ - INFO - 📊 Starting comprehensive product and review extraction...
+2025-08-20 00:29:05,974 - __main__ - INFO - Initial memory usage: 118.3 MB
+2025-08-20 00:29:05,974 - scraper - INFO - Starting comprehensive scraping of: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:29:05,976 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 00:29:06,234 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:29:06,329 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:29:06,401 - WDM - INFO - Driver [/Users/ujjwalkumar/.wdm/drivers/chromedriver/mac64/139.0.7258.68/chromedriver-mac-arm64/chromedriver] found in cache
+2025-08-20 00:29:07,194 - scraper - INFO - Selenium WebDriver initialized successfully
+2025-08-20 00:29:22,944 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:29:22,963 - scraper - INFO - Successfully extracted product: ...
+2025-08-20 00:29:22,963 - scraper - INFO - Extracting reviews from page 1
+2025-08-20 00:29:33,172 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:29:33,178 - scraper - WARNING - No reviews found on page 1
+2025-08-20 00:29:33,178 - scraper - INFO - Extracted 0 total reviews across 0 pages
+2025-08-20 00:29:33,249 - scraper - INFO - Exported extraction data to 3 files
+2025-08-20 00:29:33,249 - scraper - INFO - Scraping completed successfully in 27.28s
+2025-08-20 00:29:33,325 - __main__ - INFO - ✅ Product extracted: ...
+2025-08-20 00:29:33,325 - __main__ - INFO - ✅ Reviews extracted: 0
+2025-08-20 00:29:33,326 - __main__ - INFO - ✅ Scraping duration: 27.28s
+2025-08-20 00:29:33,327 - root - INFO - Database initialized successfully
+2025-08-20 00:29:33,328 - root - INFO - Product saved with ID: 6
+2025-08-20 00:29:33,328 - __main__ - INFO - 
+📈 SCRAPING SUMMARY:
+2025-08-20 00:29:33,328 - __main__ - INFO -    • Product Title: 
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Brand: 
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Price: 
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Rating: 0.0/5.0
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Total Reviews Extracted: 0
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Database Products: 6
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Database Reviews: 0
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Export Files: 3
+2025-08-20 00:29:33,329 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Scraping Duration: 27.28s
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Success Rate: 100.0%
+2025-08-20 00:29:33,329 - __main__ - INFO -    • Memory Usage: 127.8 MB
+2025-08-20 00:29:33,329 - __main__ - INFO -    • CPU Usage: 0.0%
+2025-08-20 00:29:33,329 - __main__ - INFO - 
+📁 EXPORTED FILES:
+2025-08-20 00:29:33,329 - __main__ - INFO -    • JSON: exports/extraction_20250820_002933.json
+2025-08-20 00:29:33,329 - __main__ - INFO -    • PRODUCT_CSV: exports/extraction_product_20250820_002933.csv
+2025-08-20 00:29:33,329 - __main__ - INFO -    • EXCEL: exports/extraction_20250820_002933.xlsx
+2025-08-20 00:29:33,331 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:29:33,331 - __main__ - INFO - 📊 STARTING PRODUCTION DATA ANALYSIS
+2025-08-20 00:29:33,331 - __main__ - INFO - ================================================================================
+2025-08-20 00:29:33,331 - __main__ - INFO - 🔄 Loading and analyzing large-scale product dataset...
+2025-08-20 00:29:33,332 - __main__ - INFO - Initial memory usage: 118.0 MB
+2025-08-20 00:29:33,332 - analyzer - INFO - Starting comprehensive product data analysis...
+2025-08-20 00:29:33,343 - analyzer - INFO - DuckDB connection established with optimizations
+2025-08-20 00:29:33,343 - analyzer - INFO - Loading dataset into DuckDB...
+2025-08-20 00:29:33,391 - analyzer - ERROR - Error loading dataset: Catalog Error: Table with name "products" already exists!
+2025-08-20 00:29:33,391 - analyzer - ERROR - Error in comprehensive analysis: Failed to load dataset
+2025-08-20 00:29:33,392 - __main__ - ERROR - ❌ Analysis failed - no results generated
+2025-08-20 00:29:33,393 - __main__ - INFO - 📄 Execution report saved: logs/execution_report_20250820_002933.json
+2025-08-20 00:29:33,393 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:29:33,393 - __main__ - INFO - 🏁 PRODUCTION PIPELINE COMPLETE
+2025-08-20 00:29:33,393 - __main__ - INFO - ================================================================================
+2025-08-20 00:29:33,393 - __main__ - INFO - ✅ Components completed successfully: 1/2
+2025-08-20 00:29:33,393 - __main__ - INFO - ⏱️  Total execution time: 27.44s
+2025-08-20 00:29:33,393 - __main__ - INFO - 💾 Peak memory usage: 127.8 MB
+2025-08-20 00:29:33,393 - __main__ - INFO - 📁 Files generated: 3
+2025-08-20 00:29:33,393 - __main__ - WARNING - ⚠️  Some components encountered issues.
+2025-08-20 00:29:33,393 - __main__ - INFO - 📋 Check logs for detailed error information
+2025-08-20 00:30:30,223 - __main__ - INFO - Production application initialized
+2025-08-20 00:30:30,226 - __main__ - INFO - 🚀 ENHANCED WEB SCRAPER & PRODUCT DATA ANALYSIS
+2025-08-20 00:30:30,226 - __main__ - INFO - 🏭 Production Pipeline Starting...
+2025-08-20 00:30:30,226 - __main__ - INFO - ================================================================================
+2025-08-20 00:30:30,226 - __main__ - INFO - ================================================================================
+2025-08-20 00:30:30,226 - __main__ - INFO - 🕷️  STARTING ADVANCED WEB SCRAPER
+2025-08-20 00:30:30,226 - __main__ - INFO - ================================================================================
+2025-08-20 00:30:30,248 - __main__ - INFO - 🎯 Target URL: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:30:30,248 - __main__ - INFO - 📊 Starting comprehensive product and review extraction...
+2025-08-20 00:30:30,249 - __main__ - INFO - Initial memory usage: 118.3 MB
+2025-08-20 00:30:30,249 - scraper - INFO - Starting comprehensive scraping of: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:30:30,252 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 00:30:30,498 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:30:30,563 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:30:30,623 - WDM - INFO - Driver [/Users/ujjwalkumar/.wdm/drivers/chromedriver/mac64/139.0.7258.68/chromedriver-mac-arm64/chromedriver] found in cache
+2025-08-20 00:30:31,389 - scraper - INFO - Selenium WebDriver initialized successfully
+2025-08-20 00:30:47,314 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:30:47,322 - scraper - INFO - Found title with selector 'h1': Human?...
+2025-08-20 00:30:47,337 - scraper - INFO - Successfully extracted product: Human?...
+2025-08-20 00:30:47,337 - scraper - INFO - Extracting reviews from page 1
+2025-08-20 00:30:57,542 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:30:57,553 - scraper - WARNING - No reviews found on page 1
+2025-08-20 00:30:57,553 - scraper - INFO - Extracted 0 total reviews across 0 pages
+2025-08-20 00:30:57,623 - scraper - INFO - Exported extraction data to 3 files
+2025-08-20 00:30:57,623 - scraper - INFO - Scraping completed successfully in 27.37s
+2025-08-20 00:30:57,701 - __main__ - INFO - ✅ Product extracted: Human?...
+2025-08-20 00:30:57,701 - __main__ - INFO - ✅ Reviews extracted: 0
+2025-08-20 00:30:57,701 - __main__ - INFO - ✅ Scraping duration: 27.37s
+2025-08-20 00:30:57,703 - root - INFO - Database initialized successfully
+2025-08-20 00:30:57,703 - root - INFO - Product saved with ID: 7
+2025-08-20 00:30:57,704 - __main__ - INFO - 
+📈 SCRAPING SUMMARY:
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Product Title: Human?
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Brand: 
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Price: 
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Rating: 0.0/5.0
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Total Reviews Extracted: 0
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Database Products: 7
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Database Reviews: 0
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Export Files: 3
+2025-08-20 00:30:57,704 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Scraping Duration: 27.37s
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Success Rate: 100.0%
+2025-08-20 00:30:57,704 - __main__ - INFO -    • Memory Usage: 128.0 MB
+2025-08-20 00:30:57,704 - __main__ - INFO -    • CPU Usage: 0.0%
+2025-08-20 00:30:57,704 - __main__ - INFO - 
+📁 EXPORTED FILES:
+2025-08-20 00:30:57,704 - __main__ - INFO -    • JSON: exports/extraction_20250820_003057.json
+2025-08-20 00:30:57,704 - __main__ - INFO -    • PRODUCT_CSV: exports/extraction_product_20250820_003057.csv
+2025-08-20 00:30:57,704 - __main__ - INFO -    • EXCEL: exports/extraction_20250820_003057.xlsx
+2025-08-20 00:30:57,707 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:30:57,707 - __main__ - INFO - 📊 STARTING PRODUCTION DATA ANALYSIS
+2025-08-20 00:30:57,707 - __main__ - INFO - ================================================================================
+2025-08-20 00:30:57,707 - __main__ - INFO - 🔄 Loading and analyzing large-scale product dataset...
+2025-08-20 00:30:57,707 - __main__ - INFO - Initial memory usage: 118.2 MB
+2025-08-20 00:30:57,707 - analyzer - INFO - Starting comprehensive product data analysis...
+2025-08-20 00:30:57,718 - analyzer - INFO - DuckDB connection established with optimizations
+2025-08-20 00:30:57,718 - analyzer - INFO - Loading dataset into DuckDB...
+2025-08-20 00:30:57,767 - analyzer - INFO - Loaded chunk 1: 10,000 records (Total: 10,000)
+2025-08-20 00:30:57,778 - analyzer - INFO - Dataset loaded successfully: 10,000 total records
+2025-08-20 00:30:57,778 - analyzer - INFO - Calculating comprehensive category statistics...
+2025-08-20 00:30:57,784 - analyzer - INFO - Statistics calculated for 10 categories
+2025-08-20 00:30:57,784 - analyzer - INFO - Performing advanced variability analysis...
+2025-08-20 00:30:57,788 - analyzer - INFO - Creating advanced visualizations...
+2025-08-20 00:30:57,826 - analyzer - ERROR - Error creating visualizations: Invalid property specified for object of type plotly.graph_objs.Scatter: 'size'
+
+Did you mean "line"?
+
+    Valid properties:
+        alignmentgroup
+            Set several traces linked to the same position axis or
+            matching axes to the same alignmentgroup. This controls
+            whether bars compute their positional range dependently
+            or independently.
+        cliponaxis
+            Determines whether or not markers and text nodes are
+            clipped about the subplot axes. To show markers and
+            text nodes above axis lines and tick labels, make sure
+            to set `xaxis.layer` and `yaxis.layer` to *below
+            traces*.
+        connectgaps
+            Determines whether or not gaps (i.e. {nan} or missing
+            values) in the provided data arrays are connected.
+        customdata
+            Assigns extra data each datum. This may be useful when
+            listening to hover, click and selection events. Note
+            that, "scatter" traces also appends customdata items in
+            the markers DOM elements
+        customdatasrc
+            Sets the source reference on Chart Studio Cloud for
+            `customdata`.
+        dx
+            Sets the x coordinate step. See `x0` for more info.
+        dy
+            Sets the y coordinate step. See `y0` for more info.
+        error_x
+            :class:`plotly.graph_objects.scatter.ErrorX` instance
+            or dict with compatible properties
+        error_y
+            :class:`plotly.graph_objects.scatter.ErrorY` instance
+            or dict with compatible properties
+        fill
+            Sets the area to fill with a solid color. Defaults to
+            "none" unless this trace is stacked, then it gets
+            "tonexty" ("tonextx") if `orientation` is "v" ("h") Use
+            with `fillcolor` if not "none". "tozerox" and "tozeroy"
+            fill to x=0 and y=0 respectively. "tonextx" and
+            "tonexty" fill between the endpoints of this trace and
+            the endpoints of the trace before it, connecting those
+            endpoints with straight lines (to make a stacked area
+            graph); if there is no trace before it, they behave
+            like "tozerox" and "tozeroy". "toself" connects the
+            endpoints of the trace (or each segment of the trace if
+            it has gaps) into a closed shape. "tonext" fills the
+            space between two traces if one completely encloses the
+            other (eg consecutive contour lines), and behaves like
+            "toself" if there is no trace before it. "tonext"
+            should not be used if one trace does not enclose the
+            other. Traces in a `stackgroup` will only fill to (or
+            be filled to) other traces in the same group. With
+            multiple `stackgroup`s or some traces stacked and some
+            not, if fill-linked traces are not already consecutive,
+            the later ones will be pushed down in the drawing
+            order.
+        fillcolor
+            Sets the fill color. Defaults to a half-transparent
+            variant of the line color, marker color, or marker line
+            color, whichever is available. If fillgradient is
+            specified, fillcolor is ignored except for setting the
+            background color of the hover label, if any.
+        fillgradient
+            Sets a fill gradient. If not specified, the fillcolor
+            is used instead.
+        fillpattern
+            Sets the pattern within the marker.
+        groupnorm
+            Only relevant when `stackgroup` is used, and only the
+            first `groupnorm` found in the `stackgroup` will be
+            used - including if `visible` is "legendonly" but not
+            if it is `false`. Sets the normalization for the sum of
+            this `stackgroup`. With "fraction", the value of each
+            trace at each location is divided by the sum of all
+            trace values at that location. "percent" is the same
+            but multiplied by 100 to show percentages. If there are
+            multiple subplots, or multiple `stackgroup`s on one
+            subplot, each will be normalized within its own set.
+        hoverinfo
+            Determines which trace information appear on hover. If
+            `none` or `skip` are set, no information is displayed
+            upon hovering. But, if `none` is set, click and hover
+            events are still fired.
+        hoverinfosrc
+            Sets the source reference on Chart Studio Cloud for
+            `hoverinfo`.
+        hoverlabel
+            :class:`plotly.graph_objects.scatter.Hoverlabel`
+            instance or dict with compatible properties
+        hoveron
+            Do the hover effects highlight individual points
+            (markers or line points) or do they highlight filled
+            regions? If the fill is "toself" or "tonext" and there
+            are no markers or text, then the default is "fills",
+            otherwise it is "points".
+        hovertemplate
+            Template string used for rendering the information that
+            appear on hover box. Note that this will override
+            `hoverinfo`. Variables are inserted using %{variable},
+            for example "y: %{y}" as well as %{xother}, {%_xother},
+            {%_xother_}, {%xother_}. When showing info for several
+            points, "xother" will be added to those with different
+            x positions from the first point. An underscore before
+            or after "(x|y)other" will add a space on that side,
+            only when this field is shown. Numbers are formatted
+            using d3-format's syntax %{variable:d3-format}, for
+            example "Price: %{y:$.2f}".
+            https://github.com/d3/d3-format/tree/v1.4.5#d3-format
+            for details on the formatting syntax. Dates are
+            formatted using d3-time-format's syntax
+            %{variable|d3-time-format}, for example "Day:
+            %{2019-01-01|%A}". https://github.com/d3/d3-time-
+            format/tree/v2.2.3#locale_format for details on the
+            date formatting syntax. The variables available in
+            `hovertemplate` are the ones emitted as event data
+            described at this link
+            https://plotly.com/javascript/plotlyjs-events/#event-
+            data. Additionally, every attributes that can be
+            specified per-point (the ones that are `arrayOk: true`)
+            are available.  Anything contained in tag `<extra>` is
+            displayed in the secondary box, for example
+            `<extra>%{fullData.name}</extra>`. To hide the
+            secondary box completely, use an empty tag
+            `<extra></extra>`.
+        hovertemplatesrc
+            Sets the source reference on Chart Studio Cloud for
+            `hovertemplate`.
+        hovertext
+            Sets hover text elements associated with each (x,y)
+            pair. If a single string, the same string appears over
+            all the data points. If an array of string, the items
+            are mapped in order to the this trace's (x,y)
+            coordinates. To be seen, trace `hoverinfo` must contain
+            a "text" flag.
+        hovertextsrc
+            Sets the source reference on Chart Studio Cloud for
+            `hovertext`.
+        ids
+            Assigns id labels to each datum. These ids for object
+            constancy of data points during animation. Should be an
+            array of strings, not numbers or any other type.
+        idssrc
+            Sets the source reference on Chart Studio Cloud for
+            `ids`.
+        legend
+            Sets the reference to a legend to show this trace in.
+            References to these legends are "legend", "legend2",
+            "legend3", etc. Settings for these legends are set in
+            the layout, under `layout.legend`, `layout.legend2`,
+            etc.
+        legendgroup
+            Sets the legend group for this trace. Traces and shapes
+            part of the same legend group hide/show at the same
+            time when toggling legend items.
+        legendgrouptitle
+            :class:`plotly.graph_objects.scatter.Legendgrouptitle`
+            instance or dict with compatible properties
+        legendrank
+            Sets the legend rank for this trace. Items and groups
+            with smaller ranks are presented on top/left side while
+            with "reversed" `legend.traceorder` they are on
+            bottom/right side. The default legendrank is 1000, so
+            that you can use ranks less than 1000 to place certain
+            items before all unranked items, and ranks greater than
+            1000 to go after all unranked items. When having
+            unranked or equal rank items shapes would be displayed
+            after traces i.e. according to their order in data and
+            layout.
+        legendwidth
+            Sets the width (in px or fraction) of the legend for
+            this trace.
+        line
+            :class:`plotly.graph_objects.scatter.Line` instance or
+            dict with compatible properties
+        marker
+            :class:`plotly.graph_objects.scatter.Marker` instance
+            or dict with compatible properties
+        meta
+            Assigns extra meta information associated with this
+            trace that can be used in various text attributes.
+            Attributes such as trace `name`, graph, axis and
+            colorbar `title.text`, annotation `text`
+            `rangeselector`, `updatemenues` and `sliders` `label`
+            text all support `meta`. To access the trace `meta`
+            values in an attribute in the same trace, simply use
+            `%{meta[i]}` where `i` is the index or key of the
+            `meta` item in question. To access trace `meta` in
+            layout attributes, use `%{data[n[.meta[i]}` where `i`
+            is the index or key of the `meta` and `n` is the trace
+            index.
+        metasrc
+            Sets the source reference on Chart Studio Cloud for
+            `meta`.
+        mode
+            Determines the drawing mode for this scatter trace. If
+            the provided `mode` includes "text" then the `text`
+            elements appear at the coordinates. Otherwise, the
+            `text` elements appear on hover. If there are less than
+            20 points and the trace is not stacked then the default
+            is "lines+markers". Otherwise, "lines".
+        name
+            Sets the trace name. The trace name appears as the
+            legend item and on hover.
+        offsetgroup
+            Set several traces linked to the same position axis or
+            matching axes to the same offsetgroup where bars of the
+            same position coordinate will line up.
+        opacity
+            Sets the opacity of the trace.
+        orientation
+            Only relevant in the following cases: 1. when
+            `scattermode` is set to "group". 2. when `stackgroup`
+            is used, and only the first `orientation` found in the
+            `stackgroup` will be used - including if `visible` is
+            "legendonly" but not if it is `false`. Sets the
+            stacking direction. With "v" ("h"), the y (x) values of
+            subsequent traces are added. Also affects the default
+            value of `fill`.
+        selected
+            :class:`plotly.graph_objects.scatter.Selected` instance
+            or dict with compatible properties
+        selectedpoints
+            Array containing integer indices of selected points.
+            Has an effect only for traces that support selections.
+            Note that an empty array means an empty selection where
+            the `unselected` are turned on for all points, whereas,
+            any other non-array values means no selection all where
+            the `selected` and `unselected` styles have no effect.
+        showlegend
+            Determines whether or not an item corresponding to this
+            trace is shown in the legend.
+        stackgaps
+            Only relevant when `stackgroup` is used, and only the
+            first `stackgaps` found in the `stackgroup` will be
+            used - including if `visible` is "legendonly" but not
+            if it is `false`. Determines how we handle locations at
+            which other traces in this group have data but this one
+            does not. With *infer zero* we insert a zero at these
+            locations. With "interpolate" we linearly interpolate
+            between existing values, and extrapolate a constant
+            beyond the existing values.
+        stackgroup
+            Set several scatter traces (on the same subplot) to the
+            same stackgroup in order to add their y values (or
+            their x values if `orientation` is "h"). If blank or
+            omitted this trace will not be stacked. Stacking also
+            turns `fill` on by default, using "tonexty" ("tonextx")
+            if `orientation` is "h" ("v") and sets the default
+            `mode` to "lines" irrespective of point count. You can
+            only stack on a numeric (linear or log) axis. Traces in
+            a `stackgroup` will only fill to (or be filled to)
+            other traces in the same group. With multiple
+            `stackgroup`s or some traces stacked and some not, if
+            fill-linked traces are not already consecutive, the
+            later ones will be pushed down in the drawing order.
+        stream
+            :class:`plotly.graph_objects.scatter.Stream` instance
+            or dict with compatible properties
+        text
+            Sets text elements associated with each (x,y) pair. If
+            a single string, the same string appears over all the
+            data points. If an array of string, the items are
+            mapped in order to the this trace's (x,y) coordinates.
+            If trace `hoverinfo` contains a "text" flag and
+            "hovertext" is not set, these elements will be seen in
+            the hover labels.
+        textfont
+            Sets the text font.
+        textposition
+            Sets the positions of the `text` elements with respects
+            to the (x,y) coordinates.
+        textpositionsrc
+            Sets the source reference on Chart Studio Cloud for
+            `textposition`.
+        textsrc
+            Sets the source reference on Chart Studio Cloud for
+            `text`.
+        texttemplate
+            Template string used for rendering the information text
+            that appear on points. Note that this will override
+            `textinfo`. Variables are inserted using %{variable},
+            for example "y: %{y}". Numbers are formatted using
+            d3-format's syntax %{variable:d3-format}, for example
+            "Price: %{y:$.2f}".
+            https://github.com/d3/d3-format/tree/v1.4.5#d3-format
+            for details on the formatting syntax. Dates are
+            formatted using d3-time-format's syntax
+            %{variable|d3-time-format}, for example "Day:
+            %{2019-01-01|%A}". https://github.com/d3/d3-time-
+            format/tree/v2.2.3#locale_format for details on the
+            date formatting syntax. Every attributes that can be
+            specified per-point (the ones that are `arrayOk: true`)
+            are available.
+        texttemplatesrc
+            Sets the source reference on Chart Studio Cloud for
+            `texttemplate`.
+        uid
+            Assign an id to this trace, Use this to provide object
+            constancy between traces during animations and
+            transitions.
+        uirevision
+            Controls persistence of some user-driven changes to the
+            trace: `constraintrange` in `parcoords` traces, as well
+            as some `editable: true` modifications such as `name`
+            and `colorbar.title`. Defaults to `layout.uirevision`.
+            Note that other user-driven trace attribute changes are
+            controlled by `layout` attributes: `trace.visible` is
+            controlled by `layout.legend.uirevision`,
+            `selectedpoints` is controlled by
+            `layout.selectionrevision`, and `colorbar.(x|y)`
+            (accessible with `config: {editable: true}`) is
+            controlled by `layout.editrevision`. Trace changes are
+            tracked by `uid`, which only falls back on trace index
+            if no `uid` is provided. So if your app can add/remove
+            traces before the end of the `data` array, such that
+            the same trace has a different index, you can still
+            preserve user-driven changes if you give each trace a
+            `uid` that stays with it as it moves.
+        unselected
+            :class:`plotly.graph_objects.scatter.Unselected`
+            instance or dict with compatible properties
+        visible
+            Determines whether or not this trace is visible. If
+            "legendonly", the trace is not drawn, but can appear as
+            a legend item (provided that the legend itself is
+            visible).
+        x
+            Sets the x coordinates.
+        x0
+            Alternate to `x`. Builds a linear space of x
+            coordinates. Use with `dx` where `x0` is the starting
+            coordinate and `dx` the step.
+        xaxis
+            Sets a reference between this trace's x coordinates and
+            a 2D cartesian x axis. If "x" (the default value), the
+            x coordinates refer to `layout.xaxis`. If "x2", the x
+            coordinates refer to `layout.xaxis2`, and so on.
+        xcalendar
+            Sets the calendar system to use with `x` date data.
+        xhoverformat
+            Sets the hover text formatting rulefor `x`  using d3
+            formatting mini-languages which are very similar to
+            those in Python. For numbers, see:
+            https://github.com/d3/d3-format/tree/v1.4.5#d3-format.
+            And for dates see: https://github.com/d3/d3-time-
+            format/tree/v2.2.3#locale_format. We add two items to
+            d3's date formatter: "%h" for half of the year as a
+            decimal number as well as "%{n}f" for fractional
+            seconds with n digits. For example, *2016-10-13
+            09:15:23.456* with tickformat "%H~%M~%S.%2f" would
+            display *09~15~23.46*By default the values are
+            formatted using `xaxis.hoverformat`.
+        xperiod
+            Only relevant when the axis `type` is "date". Sets the
+            period positioning in milliseconds or "M<n>" on the x
+            axis. Special values in the form of "M<n>" could be
+            used to declare the number of months. In this case `n`
+            must be a positive integer.
+        xperiod0
+            Only relevant when the axis `type` is "date". Sets the
+            base for period positioning in milliseconds or date
+            string on the x0 axis. When `x0period` is round number
+            of weeks, the `x0period0` by default would be on a
+            Sunday i.e. 2000-01-02, otherwise it would be at
+            2000-01-01.
+        xperiodalignment
+            Only relevant when the axis `type` is "date". Sets the
+            alignment of data points on the x axis.
+        xsrc
+            Sets the source reference on Chart Studio Cloud for
+            `x`.
+        y
+            Sets the y coordinates.
+        y0
+            Alternate to `y`. Builds a linear space of y
+            coordinates. Use with `dy` where `y0` is the starting
+            coordinate and `dy` the step.
+        yaxis
+            Sets a reference between this trace's y coordinates and
+            a 2D cartesian y axis. If "y" (the default value), the
+            y coordinates refer to `layout.yaxis`. If "y2", the y
+            coordinates refer to `layout.yaxis2`, and so on.
+        ycalendar
+            Sets the calendar system to use with `y` date data.
+        yhoverformat
+            Sets the hover text formatting rulefor `y`  using d3
+            formatting mini-languages which are very similar to
+            those in Python. For numbers, see:
+            https://github.com/d3/d3-format/tree/v1.4.5#d3-format.
+            And for dates see: https://github.com/d3/d3-time-
+            format/tree/v2.2.3#locale_format. We add two items to
+            d3's date formatter: "%h" for half of the year as a
+            decimal number as well as "%{n}f" for fractional
+            seconds with n digits. For example, *2016-10-13
+            09:15:23.456* with tickformat "%H~%M~%S.%2f" would
+            display *09~15~23.46*By default the values are
+            formatted using `yaxis.hoverformat`.
+        yperiod
+            Only relevant when the axis `type` is "date". Sets the
+            period positioning in milliseconds or "M<n>" on the y
+            axis. Special values in the form of "M<n>" could be
+            used to declare the number of months. In this case `n`
+            must be a positive integer.
+        yperiod0
+            Only relevant when the axis `type` is "date". Sets the
+            base for period positioning in milliseconds or date
+            string on the y0 axis. When `y0period` is round number
+            of weeks, the `y0period0` by default would be on a
+            Sunday i.e. 2000-01-02, otherwise it would be at
+            2000-01-01.
+        yperiodalignment
+            Only relevant when the axis `type` is "date". Sets the
+            alignment of data points on the y axis.
+        ysrc
+            Sets the source reference on Chart Studio Cloud for
+            `y`.
+        zorder
+            Sets the layer on which this trace is displayed,
+            relative to other SVG traces on the same subplot. SVG
+            traces with higher `zorder` appear in front of those
+            with lower `zorder`.
+        
+Did you mean "line"?
+
+Bad property path:
+size
+^^^^
+2025-08-20 00:30:57,827 - analyzer - INFO - Exporting comprehensive results...
+2025-08-20 00:30:57,840 - analyzer - INFO - Exported 4 result files
+2025-08-20 00:30:57,840 - analyzer - INFO - Analysis completed successfully in 0.12s
+2025-08-20 00:30:57,848 - __main__ - INFO - 
+📈 ANALYSIS RESULTS:
+2025-08-20 00:30:57,848 - __main__ - INFO - ============================================================
+2025-08-20 00:30:57,848 - __main__ - INFO - 📦 Dataset Overview:
+2025-08-20 00:30:57,848 - __main__ - INFO -    • Total Products: 10,000
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Categories Analyzed: 10
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Overall Avg Rating: 4.064
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Rating Std Dev: 0.7706
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Rating Range: 1.0 - 5.0
+2025-08-20 00:30:57,849 - __main__ - INFO - 
+🏆 Top 5 Categories by Rating:
+2025-08-20 00:30:57,849 - __main__ - INFO -    1. Books: 4.437 ⭐ (987 products) 📊
+2025-08-20 00:30:57,849 - __main__ - INFO -    2. Electronics: 4.135 ⭐ (1,000 products) 📊
+2025-08-20 00:30:57,849 - __main__ - INFO -    3. Sports & Outdoors: 4.078 ⭐ (1,010 products) ⚪
+2025-08-20 00:30:57,849 - __main__ - INFO -    4. Beauty & Health: 4.059 ⭐ (1,007 products) ⚪
+2025-08-20 00:30:57,849 - __main__ - INFO -    5. Automotive: 4.053 ⭐ (951 products) ⚪
+2025-08-20 00:30:57,849 - __main__ - INFO - 
+📉 Bottom 3 Categories by Rating:
+2025-08-20 00:30:57,849 - __main__ - INFO -    1. Pet Supplies: 4.000 ⭐ (1,057 products) 📊
+2025-08-20 00:30:57,849 - __main__ - INFO -    2. Home & Garden: 3.948 ⭐ (1,042 products) 📊
+2025-08-20 00:30:57,849 - __main__ - INFO -    3. Clothing: 3.921 ⭐ (970 products) 📊
+2025-08-20 00:30:57,849 - __main__ - INFO - 
+📊 Rating Variability Analysis:
+2025-08-20 00:30:57,849 - __main__ - INFO -    🔥 Highest Variability Categories:
+2025-08-20 00:30:57,849 - __main__ - INFO -       • Clothing: σ=0.8653, CV=22.1%
+2025-08-20 00:30:57,849 - __main__ - INFO -       • Automotive: σ=0.8173, CV=20.2%
+2025-08-20 00:30:57,849 - __main__ - INFO -       • Office Products: σ=0.7942, CV=19.8%
+2025-08-20 00:30:57,849 - __main__ - INFO -    ✅ Most Consistent Categories:
+2025-08-20 00:30:57,849 - __main__ - INFO -       • Books: σ=0.4848, CV=10.9%
+2025-08-20 00:30:57,849 - __main__ - INFO -       • Electronics: σ=0.6865, CV=16.6%
+2025-08-20 00:30:57,849 - __main__ - INFO -       • Sports & Outdoors: σ=0.7596, CV=18.6%
+2025-08-20 00:30:57,849 - __main__ - INFO - 
+🔬 Statistical Significance:
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Significant Categories: 7/10
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Top Significant Deviations:
+2025-08-20 00:30:57,849 - __main__ - INFO -       • Books: Z=15.206, Rating=4.437
+2025-08-20 00:30:57,849 - __main__ - INFO -       • Electronics: Z=2.917, Rating=4.135
+2025-08-20 00:30:57,849 - __main__ - INFO -       • Toys & Games: Z=-2.150, Rating=4.011
+2025-08-20 00:30:57,849 - __main__ - INFO - 
+🎯 Key Market Insights:
+2025-08-20 00:30:57,849 - __main__ - INFO -    • 🏆 Top Performer: Books leads with 4.44 avg rating from 987 products
+2025-08-20 00:30:57,849 - __main__ - INFO -    • 📉 Needs Attention: Clothing shows lowest satisfaction at 3.92 avg rating
+2025-08-20 00:30:57,849 - __main__ - INFO -    • ⚠️ Quality Inconsistency: Clothing shows highest rating variability (σ=0.865)
+2025-08-20 00:30:57,849 - __main__ - INFO -    • ✅ Consistent Quality: Books demonstrates most consistent ratings (σ=0.485)
+2025-08-20 00:30:57,849 - __main__ - INFO -    • 🔬 Statistical Significance: 7/10 categories show statistically significant rating differences
+2025-08-20 00:30:57,849 - __main__ - INFO -    • 📊 Market Concentration: Pet Supplies dominates with 10.6% of products
+2025-08-20 00:30:57,849 - __main__ - INFO -    • ⭐ Most Common Rating: 5.0 stars (17.8% of all ratings)
+2025-08-20 00:30:57,849 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Processing Time: 0.12s
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Memory Usage: 152.8 MB
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Records/Second: 83419
+2025-08-20 00:30:57,849 - __main__ - INFO -    • Categories Processed: 10
+2025-08-20 00:30:57,849 - __main__ - INFO - 
+📁 GENERATED FILES:
+2025-08-20 00:30:57,849 - __main__ - INFO -    • COMPLETE_JSON: exports/analysis_complete_20250820_003057.json (13.6 KB)
+2025-08-20 00:30:57,849 - __main__ - INFO -    • EXCEL_REPORT: exports/analysis_report_20250820_003057.xlsx (8.9 KB)
+2025-08-20 00:30:57,849 - __main__ - INFO -    • CATEGORY_CSV: exports/category_statistics_20250820_003057.csv (1.1 KB)
+2025-08-20 00:30:57,849 - __main__ - INFO -    • SUMMARY_REPORT: exports/analysis_summary_20250820_003057.txt (1.2 KB)
+2025-08-20 00:30:57,850 - __main__ - INFO - 📄 Execution report saved: logs/execution_report_20250820_003057.json
+2025-08-20 00:30:57,850 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:30:57,850 - __main__ - INFO - 🏁 PRODUCTION PIPELINE COMPLETE
+2025-08-20 00:30:57,850 - __main__ - INFO - ================================================================================
+2025-08-20 00:30:57,850 - __main__ - INFO - ✅ Components completed successfully: 2/2
+2025-08-20 00:30:57,850 - __main__ - INFO - ⏱️  Total execution time: 27.63s
+2025-08-20 00:30:57,850 - __main__ - INFO - 💾 Peak memory usage: 154.2 MB
+2025-08-20 00:30:57,850 - __main__ - INFO - 📁 Files generated: 7
+2025-08-20 00:30:57,850 - __main__ - INFO - 🎉 ALL COMPONENTS COMPLETED SUCCESSFULLY!
+2025-08-20 00:30:57,850 - __main__ - INFO - 
+📂 Key Output Files:
+2025-08-20 00:30:57,850 - __main__ - INFO -    • SQLite Database: data/scraper_data.db
+2025-08-20 00:30:57,850 - __main__ - INFO -    • DuckDB Analytics: data/analysis.duckdb
+2025-08-20 00:30:57,850 - __main__ - INFO -    • Comprehensive Reports: exports/
+2025-08-20 00:30:57,850 - __main__ - INFO -    • Interactive Charts: exports/charts/
+2025-08-20 00:30:57,850 - __main__ - INFO -    • Execution Logs: logs/
+2025-08-20 00:30:57,850 - __main__ - INFO -    • Execution Report: logs/execution_report_20250820_003057.json
+2025-08-20 00:32:44,644 - __main__ - INFO - Production application initialized
+2025-08-20 00:32:44,644 - __main__ - INFO - 🚀 ENHANCED WEB SCRAPER & PRODUCT DATA ANALYSIS
+2025-08-20 00:32:44,644 - __main__ - INFO - 🏭 Production Pipeline Starting...
+2025-08-20 00:32:44,644 - __main__ - INFO - ================================================================================
+2025-08-20 00:32:44,644 - __main__ - INFO - ================================================================================
+2025-08-20 00:32:44,644 - __main__ - INFO - 🕷️  STARTING ADVANCED WEB SCRAPER
+2025-08-20 00:32:44,644 - __main__ - INFO - ================================================================================
+2025-08-20 00:32:44,665 - __main__ - INFO - 🎯 Target URL: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:32:44,665 - __main__ - INFO - 📊 Starting comprehensive product and review extraction...
+2025-08-20 00:32:44,665 - __main__ - INFO - Initial memory usage: 118.5 MB
+2025-08-20 00:32:44,665 - scraper - INFO - Starting comprehensive scraping of: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:32:44,668 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 00:32:44,924 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:32:44,998 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:32:45,062 - WDM - INFO - Driver [/Users/ujjwalkumar/.wdm/drivers/chromedriver/mac64/139.0.7258.68/chromedriver-mac-arm64/chromedriver] found in cache
+2025-08-20 00:32:45,919 - scraper - INFO - Selenium WebDriver initialized successfully
+2025-08-20 00:32:59,814 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:32:59,824 - scraper - INFO - Found title with selector 'h1': Human?...
+2025-08-20 00:32:59,841 - scraper - INFO - Successfully extracted product: Human?...
+2025-08-20 00:32:59,841 - scraper - INFO - Extracting reviews from page 1
+2025-08-20 00:33:10,093 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:33:10,103 - scraper - WARNING - No reviews found on page 1
+2025-08-20 00:33:10,103 - scraper - INFO - Extracted 0 total reviews across 0 pages
+2025-08-20 00:33:10,173 - scraper - INFO - Exported extraction data to 3 files
+2025-08-20 00:33:10,173 - scraper - INFO - Scraping completed successfully in 25.51s
+2025-08-20 00:33:10,250 - __main__ - INFO - ✅ Product extracted: Human?...
+2025-08-20 00:33:10,250 - __main__ - INFO - ✅ Reviews extracted: 0
+2025-08-20 00:33:10,250 - __main__ - INFO - ✅ Scraping duration: 25.51s
+2025-08-20 00:33:10,252 - root - INFO - Database initialized successfully
+2025-08-20 00:33:10,252 - root - INFO - Product saved with ID: 8
+2025-08-20 00:33:10,253 - __main__ - INFO - 
+📈 SCRAPING SUMMARY:
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Product Title: Human?
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Brand: 
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Price: 
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Rating: 0.0/5.0
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Total Reviews Extracted: 0
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Database Products: 8
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Database Reviews: 0
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Export Files: 3
+2025-08-20 00:33:10,253 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Scraping Duration: 25.51s
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Success Rate: 100.0%
+2025-08-20 00:33:10,253 - __main__ - INFO -    • Memory Usage: 127.9 MB
+2025-08-20 00:33:10,253 - __main__ - INFO -    • CPU Usage: 0.0%
+2025-08-20 00:33:10,253 - __main__ - INFO - 
+📁 EXPORTED FILES:
+2025-08-20 00:33:10,253 - __main__ - INFO -    • JSON: exports/extraction_20250820_003310.json
+2025-08-20 00:33:10,253 - __main__ - INFO -    • PRODUCT_CSV: exports/extraction_product_20250820_003310.csv
+2025-08-20 00:33:10,253 - __main__ - INFO -    • EXCEL: exports/extraction_20250820_003310.xlsx
+2025-08-20 00:33:10,255 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:33:10,255 - __main__ - INFO - 📊 STARTING PRODUCTION DATA ANALYSIS
+2025-08-20 00:33:10,255 - __main__ - INFO - ================================================================================
+2025-08-20 00:33:10,255 - __main__ - INFO - 🔄 Loading and analyzing large-scale product dataset...
+2025-08-20 00:33:10,255 - __main__ - INFO - Initial memory usage: 118.1 MB
+2025-08-20 00:33:10,255 - analyzer - INFO - Starting comprehensive product data analysis...
+2025-08-20 00:33:10,267 - analyzer - INFO - DuckDB connection established with optimizations
+2025-08-20 00:33:10,267 - analyzer - INFO - Loading dataset into DuckDB...
+2025-08-20 00:33:10,315 - analyzer - INFO - Loaded chunk 1: 10,000 records (Total: 10,000)
+2025-08-20 00:33:10,325 - analyzer - INFO - Dataset loaded successfully: 10,000 total records
+2025-08-20 00:33:10,325 - analyzer - INFO - Calculating comprehensive category statistics...
+2025-08-20 00:33:10,331 - analyzer - INFO - Statistics calculated for 10 categories
+2025-08-20 00:33:10,331 - analyzer - INFO - Performing advanced variability analysis...
+2025-08-20 00:33:10,334 - analyzer - INFO - Creating advanced visualizations...
+2025-08-20 00:33:10,401 - analyzer - INFO - Created 2 visualization files
+2025-08-20 00:33:10,403 - analyzer - INFO - Exporting comprehensive results...
+2025-08-20 00:33:10,413 - analyzer - INFO - Exported 4 result files
+2025-08-20 00:33:10,413 - analyzer - INFO - Analysis completed successfully in 0.15s
+2025-08-20 00:33:10,422 - __main__ - INFO - 
+📈 ANALYSIS RESULTS:
+2025-08-20 00:33:10,422 - __main__ - INFO - ============================================================
+2025-08-20 00:33:10,422 - __main__ - INFO - 📦 Dataset Overview:
+2025-08-20 00:33:10,422 - __main__ - INFO -    • Total Products: 10,000
+2025-08-20 00:33:10,422 - __main__ - INFO -    • Categories Analyzed: 10
+2025-08-20 00:33:10,422 - __main__ - INFO -    • Overall Avg Rating: 4.064
+2025-08-20 00:33:10,422 - __main__ - INFO -    • Rating Std Dev: 0.7706
+2025-08-20 00:33:10,422 - __main__ - INFO -    • Rating Range: 1.0 - 5.0
+2025-08-20 00:33:10,422 - __main__ - INFO - 
+🏆 Top 5 Categories by Rating:
+2025-08-20 00:33:10,422 - __main__ - INFO -    1. Books: 4.437 ⭐ (987 products) 📊
+2025-08-20 00:33:10,422 - __main__ - INFO -    2. Electronics: 4.135 ⭐ (1,000 products) 📊
+2025-08-20 00:33:10,422 - __main__ - INFO -    3. Sports & Outdoors: 4.078 ⭐ (1,010 products) ⚪
+2025-08-20 00:33:10,422 - __main__ - INFO -    4. Beauty & Health: 4.059 ⭐ (1,007 products) ⚪
+2025-08-20 00:33:10,422 - __main__ - INFO -    5. Automotive: 4.053 ⭐ (951 products) ⚪
+2025-08-20 00:33:10,422 - __main__ - INFO - 
+📉 Bottom 3 Categories by Rating:
+2025-08-20 00:33:10,422 - __main__ - INFO -    1. Pet Supplies: 4.000 ⭐ (1,057 products) 📊
+2025-08-20 00:33:10,422 - __main__ - INFO -    2. Home & Garden: 3.948 ⭐ (1,042 products) 📊
+2025-08-20 00:33:10,422 - __main__ - INFO -    3. Clothing: 3.921 ⭐ (970 products) 📊
+2025-08-20 00:33:10,422 - __main__ - INFO - 
+📊 Rating Variability Analysis:
+2025-08-20 00:33:10,422 - __main__ - INFO -    🔥 Highest Variability Categories:
+2025-08-20 00:33:10,422 - __main__ - INFO -       • Clothing: σ=0.8653, CV=22.1%
+2025-08-20 00:33:10,422 - __main__ - INFO -       • Automotive: σ=0.8173, CV=20.2%
+2025-08-20 00:33:10,422 - __main__ - INFO -       • Office Products: σ=0.7942, CV=19.8%
+2025-08-20 00:33:10,423 - __main__ - INFO -    ✅ Most Consistent Categories:
+2025-08-20 00:33:10,423 - __main__ - INFO -       • Books: σ=0.4848, CV=10.9%
+2025-08-20 00:33:10,423 - __main__ - INFO -       • Electronics: σ=0.6865, CV=16.6%
+2025-08-20 00:33:10,423 - __main__ - INFO -       • Sports & Outdoors: σ=0.7596, CV=18.6%
+2025-08-20 00:33:10,423 - __main__ - INFO - 
+🔬 Statistical Significance:
+2025-08-20 00:33:10,423 - __main__ - INFO -    • Significant Categories: 7/10
+2025-08-20 00:33:10,423 - __main__ - INFO -    • Top Significant Deviations:
+2025-08-20 00:33:10,423 - __main__ - INFO -       • Books: Z=15.206, Rating=4.437
+2025-08-20 00:33:10,423 - __main__ - INFO -       • Electronics: Z=2.917, Rating=4.135
+2025-08-20 00:33:10,423 - __main__ - INFO -       • Toys & Games: Z=-2.150, Rating=4.011
+2025-08-20 00:33:10,423 - __main__ - INFO - 
+🎯 Key Market Insights:
+2025-08-20 00:33:10,423 - __main__ - INFO -    • 🏆 Top Performer: Books leads with 4.44 avg rating from 987 products
+2025-08-20 00:33:10,423 - __main__ - INFO -    • 📉 Needs Attention: Clothing shows lowest satisfaction at 3.92 avg rating
+2025-08-20 00:33:10,423 - __main__ - INFO -    • ⚠️ Quality Inconsistency: Clothing shows highest rating variability (σ=0.865)
+2025-08-20 00:33:10,423 - __main__ - INFO -    • ✅ Consistent Quality: Books demonstrates most consistent ratings (σ=0.485)
+2025-08-20 00:33:10,423 - __main__ - INFO -    • 🔬 Statistical Significance: 7/10 categories show statistically significant rating differences
+2025-08-20 00:33:10,423 - __main__ - INFO -    • 📊 Market Concentration: Pet Supplies dominates with 10.6% of products
+2025-08-20 00:33:10,423 - __main__ - INFO -    • ⭐ Most Common Rating: 5.0 stars (17.8% of all ratings)
+2025-08-20 00:33:10,423 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-20 00:33:10,423 - __main__ - INFO -    • Processing Time: 0.15s
+2025-08-20 00:33:10,423 - __main__ - INFO -    • Memory Usage: 153.3 MB
+2025-08-20 00:33:10,423 - __main__ - INFO -    • Records/Second: 68032
+2025-08-20 00:33:10,423 - __main__ - INFO -    • Categories Processed: 10
+2025-08-20 00:33:10,423 - __main__ - INFO - 
+📁 GENERATED FILES:
+2025-08-20 00:33:10,423 - __main__ - INFO -    • DASHBOARD: exports/charts/category_analysis_dashboard.html (4662.3 KB)
+2025-08-20 00:33:10,423 - __main__ - INFO -    • SIGNIFICANCE: exports/charts/statistical_significance.html (4660.8 KB)
+2025-08-20 00:33:10,423 - __main__ - INFO -    • COMPLETE_JSON: exports/analysis_complete_20250820_003310.json (13.7 KB)
+2025-08-20 00:33:10,423 - __main__ - INFO -    • EXCEL_REPORT: exports/analysis_report_20250820_003310.xlsx (8.9 KB)
+2025-08-20 00:33:10,423 - __main__ - INFO -    • CATEGORY_CSV: exports/category_statistics_20250820_003310.csv (1.1 KB)
+2025-08-20 00:33:10,423 - __main__ - INFO -    • SUMMARY_REPORT: exports/analysis_summary_20250820_003310.txt (1.2 KB)
+2025-08-20 00:33:10,423 - __main__ - INFO - 📄 Execution report saved: logs/execution_report_20250820_003310.json
+2025-08-20 00:33:10,423 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:33:10,423 - __main__ - INFO - 🏁 PRODUCTION PIPELINE COMPLETE
+2025-08-20 00:33:10,423 - __main__ - INFO - ================================================================================
+2025-08-20 00:33:10,424 - __main__ - INFO - ✅ Components completed successfully: 2/2
+2025-08-20 00:33:10,424 - __main__ - INFO - ⏱️  Total execution time: 25.78s
+2025-08-20 00:33:10,424 - __main__ - INFO - 💾 Peak memory usage: 154.7 MB
+2025-08-20 00:33:10,424 - __main__ - INFO - 📁 Files generated: 9
+2025-08-20 00:33:10,424 - __main__ - INFO - 🎉 ALL COMPONENTS COMPLETED SUCCESSFULLY!
+2025-08-20 00:33:10,424 - __main__ - INFO - 
+📂 Key Output Files:
+2025-08-20 00:33:10,424 - __main__ - INFO -    • SQLite Database: data/scraper_data.db
+2025-08-20 00:33:10,424 - __main__ - INFO -    • DuckDB Analytics: data/analysis.duckdb
+2025-08-20 00:33:10,424 - __main__ - INFO -    • Comprehensive Reports: exports/
+2025-08-20 00:33:10,424 - __main__ - INFO -    • Interactive Charts: exports/charts/
+2025-08-20 00:33:10,424 - __main__ - INFO -    • Execution Logs: logs/
+2025-08-20 00:33:10,424 - __main__ - INFO -    • Execution Report: logs/execution_report_20250820_003310.json
+2025-08-20 00:33:31,496 - __main__ - INFO - Production application initialized
+2025-08-20 00:33:31,497 - __main__ - INFO - 🚀 ENHANCED WEB SCRAPER & PRODUCT DATA ANALYSIS
+2025-08-20 00:33:31,497 - __main__ - INFO - 🏭 Production Pipeline Starting...
+2025-08-20 00:33:31,497 - __main__ - INFO - ================================================================================
+2025-08-20 00:33:31,497 - __main__ - INFO - ================================================================================
+2025-08-20 00:33:31,497 - __main__ - INFO - 🕷️  STARTING ADVANCED WEB SCRAPER
+2025-08-20 00:33:31,497 - __main__ - INFO - ================================================================================
+2025-08-20 00:33:31,515 - __main__ - INFO - 🎯 Target URL: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:33:31,515 - __main__ - INFO - 📊 Starting comprehensive product and review extraction...
+2025-08-20 00:33:31,516 - __main__ - INFO - Initial memory usage: 117.4 MB
+2025-08-20 00:33:31,516 - scraper - INFO - Starting comprehensive scraping of: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-20 00:33:31,518 - WDM - INFO - ====== WebDriver manager ======
+2025-08-20 00:33:31,768 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:33:31,835 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 00:33:31,896 - WDM - INFO - Driver [/Users/ujjwalkumar/.wdm/drivers/chromedriver/mac64/139.0.7258.68/chromedriver-mac-arm64/chromedriver] found in cache
+2025-08-20 00:33:32,578 - scraper - INFO - Selenium WebDriver initialized successfully
+2025-08-20 00:33:47,015 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:33:47,025 - scraper - INFO - Found title with selector 'h1': Human?...
+2025-08-20 00:33:47,042 - scraper - INFO - Successfully extracted product: Human?...
+2025-08-20 00:33:47,042 - scraper - INFO - Extracting reviews from page 1
+2025-08-20 00:33:57,313 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-20 00:33:57,326 - scraper - WARNING - No reviews found on page 1
+2025-08-20 00:33:57,326 - scraper - INFO - Extracted 0 total reviews across 0 pages
+2025-08-20 00:33:57,408 - scraper - INFO - Exported extraction data to 3 files
+2025-08-20 00:33:57,408 - scraper - INFO - Scraping completed successfully in 25.89s
+2025-08-20 00:33:57,486 - __main__ - INFO - ✅ Product extracted: Human?...
+2025-08-20 00:33:57,487 - __main__ - INFO - ✅ Reviews extracted: 0
+2025-08-20 00:33:57,487 - __main__ - INFO - ✅ Scraping duration: 25.89s
+2025-08-20 00:33:57,488 - root - INFO - Database initialized successfully
+2025-08-20 00:33:57,488 - root - INFO - Product saved with ID: 9
+2025-08-20 00:33:57,489 - __main__ - INFO - 
+📈 SCRAPING SUMMARY:
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Product Title: Human?
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Brand: 
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Price: 
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Rating: 0.0/5.0
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Total Reviews Extracted: 0
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Database Products: 9
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Database Reviews: 0
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Export Files: 3
+2025-08-20 00:33:57,489 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Scraping Duration: 25.89s
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Success Rate: 100.0%
+2025-08-20 00:33:57,489 - __main__ - INFO -    • Memory Usage: 126.8 MB
+2025-08-20 00:33:57,489 - __main__ - INFO -    • CPU Usage: 0.0%
+2025-08-20 00:33:57,489 - __main__ - INFO - 
+📁 EXPORTED FILES:
+2025-08-20 00:33:57,489 - __main__ - INFO -    • JSON: exports/extraction_20250820_003357.json
+2025-08-20 00:33:57,489 - __main__ - INFO -    • PRODUCT_CSV: exports/extraction_product_20250820_003357.csv
+2025-08-20 00:33:57,489 - __main__ - INFO -    • EXCEL: exports/extraction_20250820_003357.xlsx
+2025-08-20 00:33:57,491 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:33:57,491 - __main__ - INFO - 📊 STARTING PRODUCTION DATA ANALYSIS
+2025-08-20 00:33:57,491 - __main__ - INFO - ================================================================================
+2025-08-20 00:33:57,491 - __main__ - INFO - 🔄 Loading and analyzing large-scale product dataset...
+2025-08-20 00:33:57,491 - __main__ - INFO - Initial memory usage: 116.6 MB
+2025-08-20 00:33:57,491 - analyzer - INFO - Starting comprehensive product data analysis...
+2025-08-20 00:33:57,503 - analyzer - INFO - DuckDB connection established with optimizations
+2025-08-20 00:33:57,503 - analyzer - INFO - Loading dataset into DuckDB...
+2025-08-20 00:33:57,550 - analyzer - INFO - Loaded chunk 1: 10,000 records (Total: 10,000)
+2025-08-20 00:33:57,560 - analyzer - INFO - Dataset loaded successfully: 10,000 total records
+2025-08-20 00:33:57,560 - analyzer - INFO - Calculating comprehensive category statistics...
+2025-08-20 00:33:57,566 - analyzer - INFO - Statistics calculated for 10 categories
+2025-08-20 00:33:57,566 - analyzer - INFO - Performing advanced variability analysis...
+2025-08-20 00:33:57,570 - analyzer - INFO - Creating advanced visualizations...
+2025-08-20 00:33:57,632 - analyzer - INFO - Created 2 visualization files
+2025-08-20 00:33:57,633 - analyzer - INFO - Exporting comprehensive results...
+2025-08-20 00:33:57,644 - analyzer - INFO - Exported 4 result files
+2025-08-20 00:33:57,644 - analyzer - INFO - Analysis completed successfully in 0.14s
+2025-08-20 00:33:57,652 - __main__ - INFO - 
+📈 ANALYSIS RESULTS:
+2025-08-20 00:33:57,652 - __main__ - INFO - ============================================================
+2025-08-20 00:33:57,652 - __main__ - INFO - 📦 Dataset Overview:
+2025-08-20 00:33:57,652 - __main__ - INFO -    • Total Products: 10,000
+2025-08-20 00:33:57,652 - __main__ - INFO -    • Categories Analyzed: 10
+2025-08-20 00:33:57,652 - __main__ - INFO -    • Overall Avg Rating: 4.064
+2025-08-20 00:33:57,652 - __main__ - INFO -    • Rating Std Dev: 0.7706
+2025-08-20 00:33:57,652 - __main__ - INFO -    • Rating Range: 1.0 - 5.0
+2025-08-20 00:33:57,652 - __main__ - INFO - 
+🏆 Top 5 Categories by Rating:
+2025-08-20 00:33:57,652 - __main__ - INFO -    1. Books: 4.437 ⭐ (987 products) 📊
+2025-08-20 00:33:57,652 - __main__ - INFO -    2. Electronics: 4.135 ⭐ (1,000 products) 📊
+2025-08-20 00:33:57,652 - __main__ - INFO -    3. Sports & Outdoors: 4.078 ⭐ (1,010 products) ⚪
+2025-08-20 00:33:57,652 - __main__ - INFO -    4. Beauty & Health: 4.059 ⭐ (1,007 products) ⚪
+2025-08-20 00:33:57,652 - __main__ - INFO -    5. Automotive: 4.053 ⭐ (951 products) ⚪
+2025-08-20 00:33:57,652 - __main__ - INFO - 
+📉 Bottom 3 Categories by Rating:
+2025-08-20 00:33:57,652 - __main__ - INFO -    1. Pet Supplies: 4.000 ⭐ (1,057 products) 📊
+2025-08-20 00:33:57,652 - __main__ - INFO -    2. Home & Garden: 3.948 ⭐ (1,042 products) 📊
+2025-08-20 00:33:57,652 - __main__ - INFO -    3. Clothing: 3.921 ⭐ (970 products) 📊
+2025-08-20 00:33:57,653 - __main__ - INFO - 
+📊 Rating Variability Analysis:
+2025-08-20 00:33:57,653 - __main__ - INFO -    🔥 Highest Variability Categories:
+2025-08-20 00:33:57,653 - __main__ - INFO -       • Clothing: σ=0.8653, CV=22.1%
+2025-08-20 00:33:57,653 - __main__ - INFO -       • Automotive: σ=0.8173, CV=20.2%
+2025-08-20 00:33:57,653 - __main__ - INFO -       • Office Products: σ=0.7942, CV=19.8%
+2025-08-20 00:33:57,653 - __main__ - INFO -    ✅ Most Consistent Categories:
+2025-08-20 00:33:57,653 - __main__ - INFO -       • Books: σ=0.4848, CV=10.9%
+2025-08-20 00:33:57,653 - __main__ - INFO -       • Electronics: σ=0.6865, CV=16.6%
+2025-08-20 00:33:57,653 - __main__ - INFO -       • Sports & Outdoors: σ=0.7596, CV=18.6%
+2025-08-20 00:33:57,653 - __main__ - INFO - 
+🔬 Statistical Significance:
+2025-08-20 00:33:57,653 - __main__ - INFO -    • Significant Categories: 7/10
+2025-08-20 00:33:57,653 - __main__ - INFO -    • Top Significant Deviations:
+2025-08-20 00:33:57,653 - __main__ - INFO -       • Books: Z=15.206, Rating=4.437
+2025-08-20 00:33:57,653 - __main__ - INFO -       • Electronics: Z=2.917, Rating=4.135
+2025-08-20 00:33:57,653 - __main__ - INFO -       • Toys & Games: Z=-2.150, Rating=4.011
+2025-08-20 00:33:57,653 - __main__ - INFO - 
+🎯 Key Market Insights:
+2025-08-20 00:33:57,653 - __main__ - INFO -    • 🏆 Top Performer: Books leads with 4.44 avg rating from 987 products
+2025-08-20 00:33:57,653 - __main__ - INFO -    • 📉 Needs Attention: Clothing shows lowest satisfaction at 3.92 avg rating
+2025-08-20 00:33:57,653 - __main__ - INFO -    • ⚠️ Quality Inconsistency: Clothing shows highest rating variability (σ=0.865)
+2025-08-20 00:33:57,653 - __main__ - INFO -    • ✅ Consistent Quality: Books demonstrates most consistent ratings (σ=0.485)
+2025-08-20 00:33:57,653 - __main__ - INFO -    • 🔬 Statistical Significance: 7/10 categories show statistically significant rating differences
+2025-08-20 00:33:57,653 - __main__ - INFO -    • 📊 Market Concentration: Pet Supplies dominates with 10.6% of products
+2025-08-20 00:33:57,653 - __main__ - INFO -    • ⭐ Most Common Rating: 5.0 stars (17.8% of all ratings)
+2025-08-20 00:33:57,653 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-20 00:33:57,653 - __main__ - INFO -    • Processing Time: 0.14s
+2025-08-20 00:33:57,653 - __main__ - INFO -    • Memory Usage: 152.1 MB
+2025-08-20 00:33:57,653 - __main__ - INFO -    • Records/Second: 70513
+2025-08-20 00:33:57,653 - __main__ - INFO -    • Categories Processed: 10
+2025-08-20 00:33:57,653 - __main__ - INFO - 
+📁 GENERATED FILES:
+2025-08-20 00:33:57,653 - __main__ - INFO -    • DASHBOARD: exports/charts/category_analysis_dashboard.html (4662.3 KB)
+2025-08-20 00:33:57,653 - __main__ - INFO -    • SIGNIFICANCE: exports/charts/statistical_significance.html (4660.8 KB)
+2025-08-20 00:33:57,653 - __main__ - INFO -    • COMPLETE_JSON: exports/analysis_complete_20250820_003357.json (13.7 KB)
+2025-08-20 00:33:57,653 - __main__ - INFO -    • EXCEL_REPORT: exports/analysis_report_20250820_003357.xlsx (8.9 KB)
+2025-08-20 00:33:57,653 - __main__ - INFO -    • CATEGORY_CSV: exports/category_statistics_20250820_003357.csv (1.1 KB)
+2025-08-20 00:33:57,653 - __main__ - INFO -    • SUMMARY_REPORT: exports/analysis_summary_20250820_003357.txt (1.2 KB)
+2025-08-20 00:33:57,654 - __main__ - INFO - 📄 Execution report saved: logs/execution_report_20250820_003357.json
+2025-08-20 00:33:57,654 - __main__ - INFO - 
+================================================================================
+2025-08-20 00:33:57,654 - __main__ - INFO - 🏁 PRODUCTION PIPELINE COMPLETE
+2025-08-20 00:33:57,654 - __main__ - INFO - ================================================================================
+2025-08-20 00:33:57,654 - __main__ - INFO - ✅ Components completed successfully: 2/2
+2025-08-20 00:33:57,654 - __main__ - INFO - ⏱️  Total execution time: 26.16s
+2025-08-20 00:33:57,654 - __main__ - INFO - 💾 Peak memory usage: 153.4 MB
+2025-08-20 00:33:57,654 - __main__ - INFO - 📁 Files generated: 9
+2025-08-20 00:33:57,654 - __main__ - INFO - 🎉 ALL COMPONENTS COMPLETED SUCCESSFULLY!
+2025-08-20 00:33:57,654 - __main__ - INFO - 
+📂 Key Output Files:
+2025-08-20 00:33:57,654 - __main__ - INFO -    • SQLite Database: data/scraper_data.db
+2025-08-20 00:33:57,654 - __main__ - INFO -    • DuckDB Analytics: data/analysis.duckdb
+2025-08-20 00:33:57,654 - __main__ - INFO -    • Comprehensive Reports: exports/
+2025-08-20 00:33:57,654 - __main__ - INFO -    • Interactive Charts: exports/charts/
+2025-08-20 00:33:57,654 - __main__ - INFO -    • Execution Logs: logs/
+2025-08-20 00:33:57,654 - __main__ - INFO -    • Execution Report: logs/execution_report_20250820_003357.json
+2025-08-22 00:24:11,532 - __main__ - INFO - Production application initialized
+2025-08-22 00:24:11,532 - __main__ - INFO - 🚀 ENHANCED WEB SCRAPER & PRODUCT DATA ANALYSIS
+2025-08-22 00:24:11,532 - __main__ - INFO - 🏭 Production Pipeline Starting...
+2025-08-22 00:24:11,532 - __main__ - INFO - ================================================================================
+2025-08-22 00:24:11,532 - __main__ - INFO - ================================================================================
+2025-08-22 00:24:11,532 - __main__ - INFO - 🕷️  STARTING ADVANCED WEB SCRAPER
+2025-08-22 00:24:11,532 - __main__ - INFO - ================================================================================
+2025-08-22 00:24:11,548 - __main__ - INFO - 🎯 Target URL: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-22 00:24:11,548 - __main__ - INFO - 📊 Starting comprehensive product and review extraction...
+2025-08-22 00:24:11,549 - __main__ - INFO - Initial memory usage: 134.9 MB
+2025-08-22 00:24:11,549 - scraper - INFO - Starting comprehensive scraping of: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-22 00:24:11,550 - WDM - INFO - ====== WebDriver manager ======
+2025-08-22 00:24:12,079 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-22 00:24:12,301 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-22 00:24:12,488 - WDM - INFO - There is no [mac64] chromedriver "139.0.7258.138" for browser google-chrome "139.0.7258" in cache
+2025-08-22 00:24:12,496 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-22 00:24:12,931 - WDM - INFO - WebDriver version 139.0.7258.138 selected
+2025-08-22 00:24:12,933 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/mac-arm64/chromedriver-mac-arm64.zip
+2025-08-22 00:24:12,933 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/mac-arm64/chromedriver-mac-arm64.zip
+2025-08-22 00:24:13,123 - WDM - INFO - Driver downloading response is 200
+2025-08-22 00:24:14,500 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-22 00:24:14,731 - WDM - INFO - Driver has been saved in cache [/Users/jayesh/.wdm/drivers/chromedriver/mac64/139.0.7258.138]
+2025-08-22 00:24:16,176 - scraper - INFO - Selenium WebDriver initialized successfully
+2025-08-22 00:24:31,850 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-22 00:24:31,905 - scraper - INFO - Found title with selector '.item-title': Intel Core 2 Duo E6600 Processor...
+2025-08-22 00:24:31,913 - scraper - INFO - Successfully extracted product: Intel Core 2 Duo E6600 Processor...
+2025-08-22 00:24:31,913 - scraper - INFO - Extracting reviews from page 1
+2025-08-22 01:01:19,390 - __main__ - INFO - Production application initialized
+2025-08-22 01:01:19,390 - __main__ - INFO - 🚀 ENHANCED WEB SCRAPER & PRODUCT DATA ANALYSIS
+2025-08-22 01:01:19,391 - __main__ - INFO - 🏭 Production Pipeline Starting...
+2025-08-22 01:01:19,391 - __main__ - INFO - ================================================================================
+2025-08-22 01:01:19,391 - __main__ - INFO - ================================================================================
+2025-08-22 01:01:19,391 - __main__ - INFO - 🕷️  STARTING ADVANCED WEB SCRAPER
+2025-08-22 01:01:19,391 - __main__ - INFO - ================================================================================
+2025-08-22 01:01:19,406 - __main__ - INFO - 🎯 Target URL: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-22 01:01:19,406 - __main__ - INFO - 📊 Starting comprehensive product and review extraction...
+2025-08-22 01:01:19,407 - __main__ - INFO - Initial memory usage: 135.1 MB
+2025-08-22 01:01:19,407 - scraper - INFO - Starting comprehensive scraping of: https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877
+2025-08-22 01:01:19,409 - WDM - INFO - ====== WebDriver manager ======
+2025-08-22 01:01:19,610 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-22 01:01:19,783 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-22 01:01:19,959 - WDM - INFO - Driver [/Users/jayesh/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/chromedriver] found in cache
+2025-08-22 01:01:21,156 - scraper - INFO - Selenium WebDriver initialized successfully
+2025-08-22 01:01:38,892 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-22 01:01:38,922 - scraper - INFO - Found title with selector '.item-title': Intel Core 2 Duo E6600 Processor...
+2025-08-22 01:01:38,931 - scraper - INFO - Successfully extracted product: Intel Core 2 Duo E6600 Processor...
+2025-08-22 01:01:38,932 - scraper - INFO - Extracting reviews from page 1
+2025-08-22 01:01:49,185 - scraper - WARNING - Dynamic content loading timeout - proceeding with available content
+2025-08-22 01:01:49,217 - scraper - INFO - Found 1 reviews with selector '[class*="review"]'
+2025-08-22 01:01:49,238 - scraper - INFO - No more pages available
+2025-08-22 01:01:49,238 - scraper - INFO - Extracted 0 total reviews across 0 pages
+2025-08-22 01:01:49,380 - scraper - INFO - Exported extraction data to 3 files
+2025-08-22 01:01:49,380 - scraper - INFO - Scraping completed successfully in 29.97s
+2025-08-22 01:01:49,459 - __main__ - INFO - ✅ Product extracted: Intel Core 2 Duo E6600 Processor...
+2025-08-22 01:01:49,459 - __main__ - INFO - ✅ Reviews extracted: 0
+2025-08-22 01:01:49,459 - __main__ - INFO - ✅ Scraping duration: 29.97s
+2025-08-22 01:01:49,463 - root - INFO - Database initialized successfully
+2025-08-22 01:01:49,465 - root - INFO - Product saved with ID: 10
+2025-08-22 01:01:49,466 - __main__ - INFO - 
+📈 SCRAPING SUMMARY:
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Product Title: Intel Core 2 Duo E6600 Processor
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Brand: 
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Price: 
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Rating: 0.0/5.0
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Total Reviews Extracted: 0
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Database Products: 10
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Database Reviews: 0
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Export Files: 3
+2025-08-22 01:01:49,466 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Scraping Duration: 29.97s
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Success Rate: 100.0%
+2025-08-22 01:01:49,466 - __main__ - INFO -    • Memory Usage: 135.1 MB
+2025-08-22 01:01:49,466 - __main__ - INFO -    • CPU Usage: 0.0%
+2025-08-22 01:01:49,466 - __main__ - INFO - 
+📁 EXPORTED FILES:
+2025-08-22 01:01:49,466 - __main__ - INFO -    • JSON: exports/extraction_20250822_010149.json
+2025-08-22 01:01:49,466 - __main__ - INFO -    • PRODUCT_CSV: exports/extraction_product_20250822_010149.csv
+2025-08-22 01:01:49,466 - __main__ - INFO -    • EXCEL: exports/extraction_20250822_010149.xlsx
+2025-08-22 01:01:49,468 - __main__ - INFO - 
+================================================================================
+2025-08-22 01:01:49,468 - __main__ - INFO - 📊 STARTING PRODUCTION DATA ANALYSIS
+2025-08-22 01:01:49,468 - __main__ - INFO - ================================================================================
+2025-08-22 01:01:49,468 - __main__ - INFO - 🔄 Loading and analyzing large-scale product dataset...
+2025-08-22 01:01:49,468 - __main__ - INFO - Initial memory usage: 131.8 MB
+2025-08-22 01:01:49,468 - analyzer - INFO - Starting comprehensive product data analysis...
+2025-08-22 01:01:49,479 - analyzer - INFO - DuckDB connection established with optimizations
+2025-08-22 01:01:49,479 - analyzer - INFO - Loading dataset into DuckDB...
+2025-08-22 01:01:49,503 - analyzer - INFO - Loaded chunk 1: 10,000 records (Total: 10,000)
+2025-08-22 01:01:49,508 - analyzer - INFO - Dataset loaded successfully: 10,000 total records
+2025-08-22 01:01:49,508 - analyzer - INFO - Calculating comprehensive category statistics...
+2025-08-22 01:01:49,509 - analyzer - INFO - Statistics calculated for 10 categories
+2025-08-22 01:01:49,509 - analyzer - INFO - Performing advanced variability analysis...
+2025-08-22 01:01:49,511 - analyzer - INFO - Creating advanced visualizations...
+2025-08-22 01:01:49,571 - analyzer - INFO - Created 2 visualization files
+2025-08-22 01:01:49,572 - analyzer - INFO - Exporting comprehensive results...
+2025-08-22 01:01:49,581 - analyzer - INFO - Exported 4 result files
+2025-08-22 01:01:49,581 - analyzer - INFO - Analysis completed successfully in 0.10s
+2025-08-22 01:01:49,588 - __main__ - INFO - 
+📈 ANALYSIS RESULTS:
+2025-08-22 01:01:49,588 - __main__ - INFO - ============================================================
+2025-08-22 01:01:49,588 - __main__ - INFO - 📦 Dataset Overview:
+2025-08-22 01:01:49,588 - __main__ - INFO -    • Total Products: 10,000
+2025-08-22 01:01:49,588 - __main__ - INFO -    • Categories Analyzed: 10
+2025-08-22 01:01:49,588 - __main__ - INFO -    • Overall Avg Rating: 4.064
+2025-08-22 01:01:49,588 - __main__ - INFO -    • Rating Std Dev: 0.7706
+2025-08-22 01:01:49,588 - __main__ - INFO -    • Rating Range: 1.0 - 5.0
+2025-08-22 01:01:49,588 - __main__ - INFO - 
+🏆 Top 5 Categories by Rating:
+2025-08-22 01:01:49,588 - __main__ - INFO -    1. Books: 4.437 ⭐ (987 products) 📊
+2025-08-22 01:01:49,588 - __main__ - INFO -    2. Electronics: 4.135 ⭐ (1,000 products) 📊
+2025-08-22 01:01:49,588 - __main__ - INFO -    3. Sports & Outdoors: 4.078 ⭐ (1,010 products) ⚪
+2025-08-22 01:01:49,588 - __main__ - INFO -    4. Beauty & Health: 4.059 ⭐ (1,007 products) ⚪
+2025-08-22 01:01:49,588 - __main__ - INFO -    5. Automotive: 4.053 ⭐ (951 products) ⚪
+2025-08-22 01:01:49,588 - __main__ - INFO - 
+📉 Bottom 3 Categories by Rating:
+2025-08-22 01:01:49,588 - __main__ - INFO -    1. Pet Supplies: 4.000 ⭐ (1,057 products) 📊
+2025-08-22 01:01:49,588 - __main__ - INFO -    2. Home & Garden: 3.948 ⭐ (1,042 products) 📊
+2025-08-22 01:01:49,588 - __main__ - INFO -    3. Clothing: 3.921 ⭐ (970 products) 📊
+2025-08-22 01:01:49,588 - __main__ - INFO - 
+📊 Rating Variability Analysis:
+2025-08-22 01:01:49,588 - __main__ - INFO -    🔥 Highest Variability Categories:
+2025-08-22 01:01:49,588 - __main__ - INFO -       • Clothing: σ=0.8653, CV=22.1%
+2025-08-22 01:01:49,588 - __main__ - INFO -       • Automotive: σ=0.8173, CV=20.2%
+2025-08-22 01:01:49,588 - __main__ - INFO -       • Office Products: σ=0.7942, CV=19.8%
+2025-08-22 01:01:49,588 - __main__ - INFO -    ✅ Most Consistent Categories:
+2025-08-22 01:01:49,588 - __main__ - INFO -       • Books: σ=0.4848, CV=10.9%
+2025-08-22 01:01:49,588 - __main__ - INFO -       • Electronics: σ=0.6865, CV=16.6%
+2025-08-22 01:01:49,588 - __main__ - INFO -       • Sports & Outdoors: σ=0.7596, CV=18.6%
+2025-08-22 01:01:49,588 - __main__ - INFO - 
+🔬 Statistical Significance:
+2025-08-22 01:01:49,588 - __main__ - INFO -    • Significant Categories: 7/10
+2025-08-22 01:01:49,588 - __main__ - INFO -    • Top Significant Deviations:
+2025-08-22 01:01:49,588 - __main__ - INFO -       • Books: Z=15.206, Rating=4.437
+2025-08-22 01:01:49,588 - __main__ - INFO -       • Electronics: Z=2.917, Rating=4.135
+2025-08-22 01:01:49,588 - __main__ - INFO -       • Toys & Games: Z=-2.150, Rating=4.011
+2025-08-22 01:01:49,588 - __main__ - INFO - 
+🎯 Key Market Insights:
+2025-08-22 01:01:49,588 - __main__ - INFO -    • 🏆 Top Performer: Books leads with 4.44 avg rating from 987 products
+2025-08-22 01:01:49,589 - __main__ - INFO -    • 📉 Needs Attention: Clothing shows lowest satisfaction at 3.92 avg rating
+2025-08-22 01:01:49,589 - __main__ - INFO -    • ⚠️ Quality Inconsistency: Clothing shows highest rating variability (σ=0.865)
+2025-08-22 01:01:49,589 - __main__ - INFO -    • ✅ Consistent Quality: Books demonstrates most consistent ratings (σ=0.485)
+2025-08-22 01:01:49,589 - __main__ - INFO -    • 🔬 Statistical Significance: 7/10 categories show statistically significant rating differences
+2025-08-22 01:01:49,589 - __main__ - INFO -    • 📊 Market Concentration: Pet Supplies dominates with 10.6% of products
+2025-08-22 01:01:49,589 - __main__ - INFO -    • ⭐ Most Common Rating: 5.0 stars (17.8% of all ratings)
+2025-08-22 01:01:49,589 - __main__ - INFO - 
+🔧 PERFORMANCE METRICS:
+2025-08-22 01:01:49,589 - __main__ - INFO -    • Processing Time: 0.10s
+2025-08-22 01:01:49,589 - __main__ - INFO -    • Memory Usage: 250.7 MB
+2025-08-22 01:01:49,589 - __main__ - INFO -    • Records/Second: 96111
+2025-08-22 01:01:49,589 - __main__ - INFO -    • Categories Processed: 10
+2025-08-22 01:01:49,589 - __main__ - INFO - 
+📁 GENERATED FILES:
+2025-08-22 01:01:49,589 - __main__ - INFO -    • DASHBOARD: exports/charts/category_analysis_dashboard.html (4662.3 KB)
+2025-08-22 01:01:49,589 - __main__ - INFO -    • SIGNIFICANCE: exports/charts/statistical_significance.html (4660.8 KB)
+2025-08-22 01:01:49,589 - __main__ - INFO -    • COMPLETE_JSON: exports/analysis_complete_20250822_010149.json (13.7 KB)
+2025-08-22 01:01:49,589 - __main__ - INFO -    • EXCEL_REPORT: exports/analysis_report_20250822_010149.xlsx (8.9 KB)
+2025-08-22 01:01:49,589 - __main__ - INFO -    • CATEGORY_CSV: exports/category_statistics_20250822_010149.csv (1.1 KB)
+2025-08-22 01:01:49,589 - __main__ - INFO -    • SUMMARY_REPORT: exports/analysis_summary_20250822_010149.txt (1.2 KB)
+2025-08-22 01:01:49,590 - __main__ - INFO - 📄 Execution report saved: logs/execution_report_20250822_010149.json
+2025-08-22 01:01:49,590 - __main__ - INFO - 
+================================================================================
+2025-08-22 01:01:49,590 - __main__ - INFO - 🏁 PRODUCTION PIPELINE COMPLETE
+2025-08-22 01:01:49,590 - __main__ - INFO - ================================================================================
+2025-08-22 01:01:49,590 - __main__ - INFO - ✅ Components completed successfully: 2/2
+2025-08-22 01:01:49,590 - __main__ - INFO - ⏱️  Total execution time: 30.20s
+2025-08-22 01:01:49,590 - __main__ - INFO - 💾 Peak memory usage: 252.0 MB
+2025-08-22 01:01:49,590 - __main__ - INFO - 📁 Files generated: 9
+2025-08-22 01:01:49,590 - __main__ - INFO - 🎉 ALL COMPONENTS COMPLETED SUCCESSFULLY!
+2025-08-22 01:01:49,590 - __main__ - INFO - 
+📂 Key Output Files:
+2025-08-22 01:01:49,590 - __main__ - INFO -    • SQLite Database: data/scraper_data.db
+2025-08-22 01:01:49,590 - __main__ - INFO -    • DuckDB Analytics: data/analysis.duckdb
+2025-08-22 01:01:49,590 - __main__ - INFO -    • Comprehensive Reports: exports/
+2025-08-22 01:01:49,590 - __main__ - INFO -    • Interactive Charts: exports/charts/
+2025-08-22 01:01:49,590 - __main__ - INFO -    • Execution Logs: logs/
+2025-08-22 01:01:49,590 - __main__ - INFO -    • Execution Report: logs/execution_report_20250822_010149.json

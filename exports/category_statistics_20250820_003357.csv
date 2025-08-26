@@ -1,0 +1,11 @@
+category,product_count,avg_rating,std_deviation,variance,min_rating,max_rating,median_rating,percentile_25,percentile_75,z_score,significance,coefficient_variation
+Books,987,4.437,0.4848,0.235,2.5,5.0,4.5,4.1,4.9,15.2059,Significant,10.9263015551048
+Electronics,1000,4.135,0.6865,0.4713,1.9,5.0,4.2,3.7,4.8,2.9174,Significant,16.60217654171705
+Sports & Outdoors,1010,4.078,0.7596,0.5769,1.4,5.0,4.2,3.53,4.7,0.5697,Not Significant,18.626777832270722
+Beauty & Health,1007,4.059,0.7772,0.604,1.0,5.0,4.2,3.6,4.7,-0.1946,Not Significant,19.147573293914757
+Automotive,951,4.053,0.8173,0.6679,1.0,5.0,4.2,3.5,4.8,-0.4283,Not Significant,20.165309647174933
+Toys & Games,973,4.011,0.7612,0.5794,1.2,5.0,4.0,3.5,4.7,-2.1502,Significant,18.977811019695835
+Office Products,1003,4.005,0.7942,0.6308,1.3,5.0,4.1,3.4,4.7,-2.4381,Significant,19.830212234706618
+Pet Supplies,1057,4.0,0.7824,0.6121,1.0,5.0,4.1,3.4,4.7,-2.7124,Significant,19.56
+Home & Garden,1042,3.948,0.794,0.6305,1.0,5.0,4.0,3.4,4.6,-4.8481,Significant,20.11144883485309
+Clothing,970,3.921,0.8653,0.7488,1.0,5.0,4.0,3.3,4.7,-5.7706,Significant,22.068349910737055

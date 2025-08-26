@@ -1,0 +1,30 @@
+{
+  "execution_timestamp": "2025-08-20T00:33:57.653801",
+  "total_execution_time": 26.15687918663025,
+  "performance_metrics": {
+    "scraper_success": true,
+    "analyzer_success": true,
+    "total_execution_time": 26.15687394142151,
+    "peak_memory_usage": 153.40625,
+    "files_generated": 9
+  },
+  "scraper_results": {
+    "success": true,
+    "product_extracted": true,
+    "reviews_count": 0,
+    "export_files": 3
+  },
+  "analyzer_results": {
+    "success": true,
+    "categories_analyzed": 10,
+    "insights_generated": 7,
+    "export_files": 6
+  },
+  "system_resources": {
+    "memory_rss_mb": 153.40625,
+    "memory_vms_mb": 417569.453125,
+    "cpu_percent": 0.0,
+    "system_memory_percent": 77.0,
+    "system_cpu_percent": 0.0
+  }
+}

@@ -1,0 +1,30 @@
+PRODUCT DATA ANALYSIS REPORT
+==================================================
+
+DATASET OVERVIEW:
+  total_products: 10000
+  total_categories: 10
+  overall_avg_rating: 4.064
+  overall_std_rating: 0.7706
+  min_rating: 1.0
+  max_rating: 5.0
+  processing_stats: {'records_processed': 10000, 'categories_analyzed': 10, 'insights_generated': 7, 'export_files_created': 2}
+
+PROCESSING TIME: 0.14 seconds
+MEMORY USAGE: 152.1 MB
+
+KEY INSIGHTS:
+  1. 🏆 Top Performer: Books leads with 4.44 avg rating from 987 products
+  2. 📉 Needs Attention: Clothing shows lowest satisfaction at 3.92 avg rating
+  3. ⚠️ Quality Inconsistency: Clothing shows highest rating variability (σ=0.865)
+  4. ✅ Consistent Quality: Books demonstrates most consistent ratings (σ=0.485)
+  5. 🔬 Statistical Significance: 7/10 categories show statistically significant rating differences
+  6. 📊 Market Concentration: Pet Supplies dominates with 10.6% of products
+  7. ⭐ Most Common Rating: 5.0 stars (17.8% of all ratings)
+
+TOP 5 CATEGORIES BY RATING:
+  1. Books: 4.44 ⭐ (987 products)
+  2. Electronics: 4.13 ⭐ (1,000 products)
+  3. Sports & Outdoors: 4.08 ⭐ (1,010 products)
+  4. Beauty & Health: 4.06 ⭐ (1,007 products)
+  5. Automotive: 4.05 ⭐ (951 products)
