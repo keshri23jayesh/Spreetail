@@ -9,9 +9,9 @@ venv/
 env/
 .venv/
 
-# Data and exports (optional — ignore if you don't want raw data tracked)
-data/
-exports/
+## Data and exports (optional — ignore if you don't want raw data tracked)
+#data/
+#exports/
 
 # OS-specific files
 .DS_Store
